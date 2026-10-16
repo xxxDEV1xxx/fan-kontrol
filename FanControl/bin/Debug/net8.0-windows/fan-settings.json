@@ -1,0 +1,7 @@
+{
+  "profile": "Silent",
+  "manualPercent": 65,
+  "minimumPercent": 25,
+  "maximumPercent": 84,
+  "emergencyTemperatureC": 85
+}
